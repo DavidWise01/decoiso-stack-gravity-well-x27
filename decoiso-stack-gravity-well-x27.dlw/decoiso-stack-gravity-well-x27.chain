@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 184
+slug  : decoiso-stack-gravity-well-x27
+seal  : bfbe33b7442f6377ff39b56d4ac3ba847cd5fc7fcdeb046008c2632a783e0893
+prev  : 44db7be8facba64a356792f8f04ab9b7eed10164db65d8023ed1410408ac7bad
+link  : a9a55fa48c60e7740f1fa4367f25beb454a7d135d18ff8d410ff8e8a81d2c296
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
